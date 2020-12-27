@@ -1,3 +1,44 @@
 body {
   background-color: whitesmoke;
 }
+
+td{
+  text-align: left;
+  width: 40%;
+}
+
+th {
+  background-color: #99bfc9b2;
+  color: black;
+}
+
+.CourseCard{
+  margin: 13px;
+  border-radius: 13px;
+  padding: 8px;
+  background-color: #3CBC8D;
+  color: white;
+}
+.botn{
+  background-color: #93dadfa8;
+  border: none;
+  color: white;
+  padding: 5px 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 2px;
+}
+
+button{
+  background-color: #3fd14b9c;
+  border-radius: 13px;
+  color: white;
+  padding: 5px 14px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 2px;
+}
